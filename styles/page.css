@@ -1,4 +1,18 @@
 #page {
     max-width: 1128px;
     margin-inline: auto;
+
+    header {
+        img {
+            border-radius: 2.8rem;
+            margin-bottom: 2.4rem;
+            height: 66rem;
+        }
+
+        p {
+            font-style: italic;
+            text-align: center;
+        }
+    }
 }
+ 
