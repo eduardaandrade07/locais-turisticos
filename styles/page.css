@@ -27,8 +27,8 @@
     }
 
     .destino_1, 
-    .destino_2,
-    .destino_3, {
+    .destino_2, 
+    .destino_3 {
 
         img{
             height: 35rem;
@@ -39,7 +39,7 @@
         }
         h3{
             font-size:2.8rem;
-            margin-bottom: .4rem;
+            margin-bottom:.4rem;
 
         
         }
